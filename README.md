@@ -1,4 +1,4 @@
-# SimplePongGame
+# Simple Pong Game
 		import simplegui, random									#imports to use graphics and random modules
 
 	#initialize the global varriables
