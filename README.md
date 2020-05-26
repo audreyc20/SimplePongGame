@@ -1,4 +1,6 @@
 # Simple Pong Game in python
+A very simpler version of pong for two players that keeps track of scores and randomly makes the ball move faster on a timer
+
 	import simplegui, random									#imports to use graphics and random modules
 
 	#initialize the global varriables
